@@ -29,12 +29,19 @@ pnpm run build
 
 You can preview the production build with `npm run preview`.
 
-## мои заметки
+## Мои заметки
 
 1. Создать commit
-   ``` bash
+   ```bash
    git add .
    git status
    git-cz
    git push origin main
    ```
+1. Втянуть последнюю версию из Github
+   ```bash
+	 git pull origin main
+	 # или если другая ветка
+	 git checkout <другая ветка>
+	 git pull origin <другая ветка>
+	 ```
