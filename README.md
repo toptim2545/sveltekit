@@ -28,3 +28,10 @@ pnpm run build
 ```
 
 You can preview the production build with `npm run preview`.
+
+## мои заметки
+
+1. Создать commit
+   ``` bash
+   git add .
+   ```

@@ -16,7 +16,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		pozitive
 	</h1>
 
 	<h2>
