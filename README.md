@@ -34,4 +34,6 @@ You can preview the production build with `npm run preview`.
 1. Создать commit
    ``` bash
    git add .
+   git status
+   git-cz
    ```
