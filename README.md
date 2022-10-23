@@ -36,4 +36,5 @@ You can preview the production build with `npm run preview`.
    git add .
    git status
    git-cz
+   git push origin main
    ```
