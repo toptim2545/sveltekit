@@ -40,8 +40,8 @@ You can preview the production build with `npm run preview`.
    ```
 1. Втянуть последнюю версию из Github
    ```bash
-	 git pull origin main
-	 # или если другая ветка
-	 git checkout <другая ветка>
-	 git pull origin <другая ветка>
-	 ```
+   git pull origin main
+   # или если другая ветка
+   git checkout <другая ветка>
+   git pull origin <другая ветка>
+	```
