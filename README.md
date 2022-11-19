@@ -45,3 +45,7 @@ You can preview the production build with `npm run preview`.
    git checkout <другая ветка>
    git pull origin <другая ветка>
 	```
+1. Создать новую ветвь
+   ```bash
+   git checkout -b <новая ветка>
+   ```
